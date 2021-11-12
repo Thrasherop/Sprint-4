@@ -7,7 +7,7 @@ is a web document that has a dice and a submit button. When the submit button is
 it displays a random D6 number. This webpage is styled using CSS.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/z5tPL-hfGMI)
 
 # Development Environment
 
