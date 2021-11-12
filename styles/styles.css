@@ -8,44 +8,29 @@
 }
 
 
-#hello_world {
+#instructions_label {
+    /* sets the style for the instruction label */
     color: #ff0000;
 }
 
 #output {
+    /* sets the style for the output label */
     color: black;
     font-size: 90px;
     background-color: #00000000;
 }
 
 .label {
+    /* sets the style for the labels */
     color: #ff0000;
     margin: 10px;
 }
 
 
 
-.circle {
-    width: 100px;
-    height: 100px;
-    background-color: #fff;
-    border-radius: 50%;
-    position: relative;
-    margin: 0 auto;
-    top: 50%;
-    transform: translateY(-50%);
-    box-shadow: 0 0 0 1px #fff;
-}
-
-
 .dice {
 
-    /* location of the dice */
-    /* position: absolute;
-    right: 40%;
-    top: 10%; */
-
-    /* visual */
+    /* sets the visual for the dice */
     text-align: center;
     height: 100px; 
     width: 100px; 
@@ -56,12 +41,13 @@
 }
 
 .button {
+    /* styles the button */
     background-color: blue;
     width: 100px;
     margin: 10px;
 }
 
-/* this centers all the divs */
+/* this centers all the divs (DEPRECIATED)*/
 .center {
     display: block;
     text-align: center;
